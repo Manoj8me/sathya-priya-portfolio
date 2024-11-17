@@ -7,7 +7,7 @@ function Home() {
         <h1>hi,I am Manoj Kumar R</h1>
         <p>I am a Full-Stack Devloper</p>
         <button onClick={() => window.location.href = "/projects"}>View My Projects</button>
-        <a href="/manoj-Frontend-resume.pdf" download>
+        <a href="/Manoj-fullstack-resume.pdf" download>
           <button>Download CV</button>
         </a>
       </section>
