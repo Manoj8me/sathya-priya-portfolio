@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #333;
+}
+nav > a {
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 20px;
+}
+nav > a:hover {
+  background-color: #484444;
+  border-radius: 5px;
+}
