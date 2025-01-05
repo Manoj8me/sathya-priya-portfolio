@@ -23,11 +23,10 @@ function About() {
       <h1>About Me</h1>
       <p>
         I am a passionate full-stack web developer actively looking for
-        opportunities. I have previously worked as a frontend developer and
-        recently completed a Java full-stack course, enhancing both my frontend
+        opportunities. I have recently completed a Java full-stack course, enhancing both my frontend
         and backend development skills.
       </p>
-      <h2>Skills</h2>
+      <h1>Skills</h1>
       <ul>
         <li>Frontend: HTML, CSS, JavaScript, ReactJS, Bootstrap</li>
         <li>Backend: Core Java, Spring Boot, JSON Server</li>

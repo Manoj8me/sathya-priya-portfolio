@@ -18,11 +18,11 @@ function Footer() {
     return (
         <footer className="Footer">
             <div className="contact">
-                <a href="mailto:manoj8me@gmail.com" aria-label="Email">
+                <a href="mailto:sathiyapriyas658@gmail.com" aria-label="Email">
                     <FaEnvelope />
                 </a>
                 <a
-                    href="https://www.linkedin.com/in/manoj-kumar-r-74a0b3241"
+                    href="https://www.linkedin.com/in/sathya-priya-s-5172b7339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LinkedIn"
@@ -30,7 +30,7 @@ function Footer() {
                     <FaLinkedin />
                 </a>
                 <a
-                    href="https://github.com/Manoj8me"
+                    href="https://github.com/Sathiyapriya1116"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="GitHub"
@@ -38,7 +38,7 @@ function Footer() {
                     <FaGithub />
                 </a>
             </div>
-            <p>© 2024 Manoj Kumar R. All Rights Reserved.</p>
+            <p>© 2025 Sathya Priya S. All Rights Reserved.</p>
         </footer>
     );
 }

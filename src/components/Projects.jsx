@@ -45,14 +45,7 @@ function Projects() {
         "Created CRUD operations with JSON Server as the backend and ReactJS in the frontend.",
       technologies: "ReactJS, CSS, Bootstrap, JSON-Server",
       link: "https://json-crud-authentication-frontend.onrender.com",
-    },
-    {
-      name: "Online Book Store",
-      description:
-        "Developed an online bookstore website using JSON Server as the backend and ReactJS in the frontend.",
-      technologies: "ReactJS, CSS, Bootstrap, JSON-Server",
-      link: "https://json-server-book-store-frontend.onrender.com",
-    },
+    }
   ];
 
   return (
